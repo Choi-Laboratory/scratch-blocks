@@ -35,6 +35,7 @@ goog.require('Blockly.DropDownDiv');
 goog.require('Blockly.Events');
 goog.require('Blockly.FieldAngle');
 goog.require('Blockly.FieldPercent');
+goog.require('Blockly.FieldUntiangle');
 goog.require('Blockly.FieldCheckbox');
 goog.require('Blockly.FieldColour');
 goog.require('Blockly.FieldColourSlider');
